@@ -7,6 +7,7 @@ One of the topics covered during those years that struck me the most was the one
 Specifically, I think it's really interesting to understand the formation and continuous evolution of the Earth's crust, finding out what's behind phenomena like earthquakes or the presence of volcanoes.
 
 In this project, I tried to combine my passion for science, the desire to take advantage of new technologies to learn with my passion as a coder.
+
 🌋 It is also meant to be a stimulus to be more aware of the place we live on and a stimulus to a more innovative and technological way of learning science subjects.
 
 
