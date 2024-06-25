@@ -12,8 +12,13 @@ In this project, I tried to combine my passion for science, the desire to take a
 
 
 In this project I used all native apple features and technologies.
+
 I used Mapkit for the main feature of the app, thanks to the latest updates that the kit received during the last WWDC it was clear and beautiful to use.
+
 In particular I used a 3d globe and used the Annotation functionality to develop my idea.
+
 I used classes and a published variable in order to share my datas to more views and in order to keep clean and clear my code.
+
 I made an onboarding in order to give a little brief about the arguments and the app.
+
 Then I used SwiftUI, thanks to its simplicity, for all the major features and for the frontend of the app.
